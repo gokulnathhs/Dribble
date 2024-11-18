@@ -101,7 +101,7 @@ index.html:
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[Narendra - 212221040117]</p>
+    <p>[GOKULNATH 212222040045]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -162,7 +162,7 @@ about.html:
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[Narendra - 212221040117]</p>
+    <p>[GOKULNATH 212222040045]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -287,7 +287,7 @@ services.html:
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3">
-    <p>[Narendra - 212221040117]</p>
+    <p>[GOKULNATH 212222040045]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -343,10 +343,9 @@ body {
   }
 ```
 ## OUTPUT:
-![Screenshot (40)](https://github.com/user-attachments/assets/a4752182-4a73-4ad8-86f9-51329d02c348)
-![Screenshot (41)](https://github.com/user-attachments/assets/4b9e562d-ec5f-445a-87e4-bc090f0e6771)
-![Screenshot (42)](https://github.com/user-attachments/assets/9db59539-03d6-45e6-8f78-780953a872ed)
-![Screenshot (43)](https://github.com/user-attachments/assets/289b9dca-89aa-47c8-be4c-35ae11f4ef39)
+![Screenshot 2024-11-18 154342](https://github.com/user-attachments/assets/765455ba-15f1-4c35-acbc-4a735ed9d272)
+![Screenshot 2024-11-18 153405](https://github.com/user-attachments/assets/8de3aca5-03f4-4f9c-b2fd-8b55698f8cb0)
+
 
 
 ## RESULT:
